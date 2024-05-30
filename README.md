@@ -69,9 +69,9 @@ Enter the business logic in the text area and click "Process" to find matching p
 ### Results.
 Results
 
-image/aicoder1.png
-image/aicoder2.png
-image/aicoder3.png
+[image/aicoder1.png](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder1.png)
+[image/aicoder2.png](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder2.png)
+[image/aicoder3.png](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder3.png)
 
 
 ## License

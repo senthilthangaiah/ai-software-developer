@@ -67,12 +67,15 @@ Update file_path in extract_store_logic.py to the path of your program file.
 
 Enter the business logic in the text area and click "Process" to find matching programs and get suggestions for implementing the business logic.
 ### Results.
-Results
 
+# Changes Required
 ![screenshot](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder1.png)
 
-[image/aicoder2.png](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder2.png)
-[image/aicoder3.png](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder3.png)
+# Existing Logic & Code
+![screenshot](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder2.png)
+
+# Proposed Logic & Code
+![screenshot](https://github.com/senthilthangaiah/ai-software-developer/blob/8d4d6aaada2470c7de5bbd97ac1527e8071262bf/image/aicoder3.png)
 
 
 ## License

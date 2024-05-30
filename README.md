@@ -66,6 +66,13 @@ Extract and Store Business Logic
 Update file_path in extract_store_logic.py to the path of your program file.
 
 Enter the business logic in the text area and click "Process" to find matching programs and get suggestions for implementing the business logic.
+### Results.
+Results
+
+image/aicoder1.png
+image/aicoder2.png
+image/aicoder3.png
+
 
 ## License
 This project is licensed under the MIT License.

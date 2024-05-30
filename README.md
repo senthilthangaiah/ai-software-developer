@@ -38,7 +38,7 @@ Replace "your-openai-api-key" in the scripts with your actual OpenAI API key.
 
 ## Running the Application
 
-Extracting and Storing Business Logic:
+## Extracting and Storing Business Logic:
 
 Run the script to read a program file, extract business logic, generate embeddings, and store the data in the SQLite database.
 
@@ -64,20 +64,6 @@ streamlit run app.py
 ## Usage
 Extract and Store Business Logic
 Update file_path in extract_store_logic.py to the path of your program file.
-
-# Run the script:
-
-```sh
-python extract_store_logic.py
-```
-
-# Streamlit App
-Launch the app:
-
-```sh
-
-streamlit run app.py
-```
 
 Enter the business logic in the text area and click "Process" to find matching programs and get suggestions for implementing the business logic.
 
